@@ -3,6 +3,7 @@ Hash table implementation in C.
 Linear probing used for collisions.  
 
 **Input:**
+
 Program designed to read from file with following format:
 
 N M K
